@@ -5,4 +5,12 @@ body{
   background-attachment: fixed;
   background-size: cover;
   font-family:'Bitcount Grid Single';
-}  
+  color:white;
+  align-items:center;
+  justify-content:center;
+}
+clock {
+  font-size: 8rem;
+  font-weight: 400;
+  opacity: 0.9;
+}
